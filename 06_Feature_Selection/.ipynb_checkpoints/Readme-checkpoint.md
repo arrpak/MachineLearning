@@ -80,7 +80,9 @@
 - We can see p-value (feature) AIC R2 adjusted F-stat prob(F-stat)…
 ### 10.Stepwise Selection
 - Similar to forward selection process, but a feature can also be dropped if that feature is not useful anymore after a certain number of steps
+
 [MLXTEND](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
+
 [Feature Selection Scikit Learn](https://scikit-learn.org/stable/modules/feature_selection.html)
 
 ### 11.LASSO or RIDGE (Linear Models)
